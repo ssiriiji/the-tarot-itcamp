@@ -47,9 +47,12 @@ Supavasinan Promdetch
 
 - Discord:  exe_supavasinan
 
-
 ### Acknowledgments 
 - Thanks to ITCamp20 for the opportunity to create this project.
 Shoutout to the developers and designers who contributed.
 
+### Contributors
+[f3xlqz][id/name] 
+
+[id/name]: https://www.facebook.com/itcampKMITL/
 
