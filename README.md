@@ -1,8 +1,6 @@
 # ITCamp20 Tarot Card Website
 
-Welcome to the ITCamp20 Tarot Card Website! This project was created during the [ITCamp20][id/name]  event.
-
-
+Welcome to the ITCamp20 Tarot Card Website! This project was created by our team during the [ITCamp20][id/name] event.
 
 [id/name]: https://www.facebook.com/itcampKMITL/
 
