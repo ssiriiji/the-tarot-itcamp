@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps:
 git clone https://github.com/your-username/itcamp20-tarot-website.git
 
 # Navigate to the project directory
-cd itcamp20-tarot-website
+cd the-tarot
 
 # Install dependencies
 npm install
