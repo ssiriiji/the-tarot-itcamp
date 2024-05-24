@@ -1,4 +1,4 @@
-#ITCamp20 Tarot Card Website
+# ITCamp20 Tarot Card Website
 
 Welcome to the ITCamp20 Tarot Card Website! This project was created during the ITCamp20 event.
 
