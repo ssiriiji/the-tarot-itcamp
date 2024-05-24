@@ -52,10 +52,4 @@ Supavasinan Promdetch
 - Thanks to ITCamp20 for the opportunity to create this project.
 Shoutout to the developers and designers who contributed.
 
-### Contributor
-[f3xlqz][id/name]
-
-[id/name]: https://github.com/f3xlqz/
-
-
 
