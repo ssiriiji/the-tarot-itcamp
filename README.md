@@ -1,6 +1,11 @@
 # ITCamp20 Tarot Card Website
 
-Welcome to the ITCamp20 Tarot Card Website! This project was created during the ITCamp20 event.
+Welcome to the ITCamp20 Tarot Card Website! This project was created during the [ITCamp20][id/name]  event.
+
+
+
+[id/name]: https://www.facebook.com/itcampKMITL/
+
 
 ### Overview 
 This website offers a fun and interactive way to pick a random tarot card and provides detailed information about each card drawn.
