@@ -1,38 +1,52 @@
-# create-svelte
+#ITCamp20 Tarot Card Website
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Welcome to the ITCamp20 Tarot Card Website! This project was created during the ITCamp20 event.
 
-## Creating a project
+### Overview 
+This website offers a fun and interactive way to pick a random tarot card and provides detailed information about each card drawn.
 
-If you're seeing this, you've probably already done this step. Congrats!
+### Features
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- Random Tarot Card Selection: The main feature of this website is the random selection of tarot cards. Each card picked is completely random, providing a unique experience each time.
+- Card Information Display: After a card is picked, the website displays detailed information about the card, including its meaning and symbolism.
+- User-Friendly Interface: The website is designed with a simple and intuitive interface, making it easy for anyone to use.
+- Responsive Design: The site is fully responsive, ensuring it looks great on both desktop and mobile devices.
 
-# create a new project in my-app
-npm create svelte@latest my-app
+### Technologies Used
+- HTML: For structuring the content of the website.
+- CSS: For styling the website and making it visually appealing.
+- JavaScript: For adding interactive elements and handling the random selection of tarot cards.
+- JSON: For storing and retrieving tarot card data.
+- Svelte: For building the user interface with a modern, reactive framework.
+- Tailwind CSS: For utility-first CSS styling.
+
+### Installation 
+To get a local copy up and running, follow these simple steps:
+
 ```
+# Clone the repository
+git clone https://github.com/your-username/itcamp20-tarot-website.git
 
-## Developing
+# Navigate to the project directory
+cd itcamp20-tarot-website
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+# Install dependencies
+npm install
 
-```bash
+# Start the development server
 npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+# Open index.html in your browser
 ```
 
-## Building
+### Contact 
+Supavasinan Promdetch 
 
-To create a production version of your app:
+- Discord:  exe_supavasinan
 
-```bash
-npm run build
-```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### Acknowledgments 
+- Thanks to ITCamp20 for the opportunity to create this project.
+Shoutout to the developers and designers who contributed.
+- Thanks to ITCamp20 for the opportunity to create this project.
+Shoutout to the developers and designers who contributed.
