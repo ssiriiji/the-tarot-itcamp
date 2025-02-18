@@ -1,34 +1,36 @@
-# ITCamp20 Tarot Card Website
+# 🔮 ITCamp20 Tarot Card Website
 
-Welcome to the ITCamp20 Tarot Card Website! This project was created by our team during the [ITCamp20][id/name] event.
+Welcome to the **ITCamp20 Tarot Card Website**! This project was created during the [ITCamp20](https://www.facebook.com/itcampKMITL/) event to provide a **fun and interactive tarot card experience**.
 
-[id/name]: https://www.facebook.com/itcampKMITL/
+---
 
+## 🌟 Overview
 
-### Overview 
-This website offers a fun and interactive way to pick a random tarot card and provides detailed information about each card drawn.
+This website allows users to **randomly draw tarot cards** and receive detailed information about each card’s meaning and symbolism.
 
-### Features
+## ✨ Features
 
-- Random Tarot Card Selection: The main feature of this website is the random selection of tarot cards. Each card picked is completely random, providing a unique experience each time.
-- Card Information Display: After a card is picked, the website displays detailed information about the card, including its meaning and symbolism.
-- User-Friendly Interface: The website is designed with a simple and intuitive interface, making it easy for anyone to use.
-- Responsive Design: The site is fully responsive, ensuring it looks great on both desktop and mobile devices.
+✅ **Random Tarot Card Selection** – Every draw is completely random for a unique experience.  
+✅ **Detailed Card Information** – Provides insights into the meaning and symbolism of each card.  
+✅ **User-Friendly Interface** – Simple, intuitive design for smooth interactions.  
+✅ **Responsive Design** – Optimized for both desktop and mobile users.  
+✅ **Modern UI** – Built using **Svelte** and **Tailwind CSS** for a sleek and dynamic interface.
 
-### Technologies Used
-- HTML: For structuring the content of the website.
-- CSS: For styling the website and making it visually appealing.
-- JavaScript: For adding interactive elements and handling the random selection of tarot cards.
-- JSON: For storing and retrieving tarot card data.
-- Svelte: For building the user interface with a modern, reactive framework.
-- Tailwind CSS: For utility-first CSS styling.
+## 🛠️ Technologies Used
 
-### Installation 
-To get a local copy up and running, follow these simple steps:
+- **Svelte** – A modern, reactive framework for fast and lightweight web apps.
+- **Tailwind CSS** – Utility-first CSS framework for efficient styling.
+- **JavaScript** – Handles random card selection and interactive elements.
+- **HTML & CSS** – Provides structure and styling.
+- **JSON** – Stores and retrieves tarot card data.
 
-```
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally:
+
+```bash
 # Clone the repository
-git clone https://github.com/your-username/itcamp20-tarot-website.git
+git clone https://github.com/Supavasinan/the-tarot
 
 # Navigate to the project directory
 cd the-tarot
@@ -38,21 +40,31 @@ npm install
 
 # Start the development server
 npm run dev
-
-# Open index.html in your browser
 ```
 
-### Contact 
-Supavasinan Promdetch 
+Then, open `index.html` in your browser to start drawing your tarot cards! 🎴
 
-- Discord:  exe_supavasinan
+## 📸 Screenshots
 
-### Acknowledgments 
-- Thanks to ITCamp20 for the opportunity to create this project.
-Shoutout to the developers and designers who contributed.
+![Tarot Card UI](https://imgur.com/Jahj9V7.jpeg)
+![Card Details](https://imgur.com/nWWeBux.jpeg)
+![Mobile View](https://imgur.com/fuZvGkT.jpeg)
 
-### Contributors
-[f3xlqz][id/name] 
+## 📬 Contact
 
-[id/name]: https://www.facebook.com/itcampKMITL/
+👤 **Supavasinan Promdetch**  
+- **Discord:** exe_supavasinan
+
+## 🎉 Acknowledgments
+
+🙏 **Special thanks to ITCamp20** for the opportunity to build this project!  
+🚀 Huge appreciation to the developers and designers who contributed.
+
+## 👥 Contributors
+
+💡 [f3xlqz](https://www.facebook.com/itcampKMITL/)
+
+---
+
+Enjoy your tarot reading experience! 🃏✨
 
